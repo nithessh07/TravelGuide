@@ -1,0 +1,34 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #eef4f7;
+}
+
+.travel-head {
+  font-size: 28px;
+  font-family: 'roboto';
+  color: #334155;
+  margin-bottom: 5px;
+}
+
+.travel-head-container {
+  border-bottom: 3px solid #52bbf0;
+}
+
+.travel-list-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 0px;
+  list-style-type: none;
+}
+
+.loader-container {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

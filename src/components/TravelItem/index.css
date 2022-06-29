@@ -1,0 +1,24 @@
+.travel-item-container {
+  max-width: 400px;
+  background-color: #ffffff;
+  margin: 10px;
+}
+
+.travel-item-image {
+  max-width: 400px;
+}
+
+.travel-item-name {
+  color: #334155;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 10px;
+}
+
+.travel-item-description {
+  color: #64748b;
+  font-weight: 500;
+  margin: 10px;
+  font-size: 13px;
+  margin-top: 10px;
+}
